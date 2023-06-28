@@ -1,0 +1,6 @@
+D:\cpb\test\MyTest\Swift.MVC\bin\Debug\Swift.MVC.dll
+D:\cpb\test\MyTest\Swift.MVC\bin\Debug\Swift.MVC.pdb
+D:\cpb\test\MyTest\Swift.MVC\obj\Debug\Swift.MVC.csproj.AssemblyReference.cache
+D:\cpb\test\MyTest\Swift.MVC\obj\Debug\Swift.MVC.csproj.CoreCompileInputs.cache
+D:\cpb\test\MyTest\Swift.MVC\obj\Debug\Swift.MVC.dll
+D:\cpb\test\MyTest\Swift.MVC\obj\Debug\Swift.MVC.pdb
